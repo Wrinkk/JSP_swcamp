@@ -1,5 +1,6 @@
 package com.ohgiraffers.common;
 
+
 public class PersonalAccount implements Account {
 
     private final int bankCode;     // 은행 코드
