@@ -9,6 +9,6 @@ import lombok.*;
 @ToString
 public class MemberDTO {
 
-    private Long id;
+    private long id;
     private String name;
 }
